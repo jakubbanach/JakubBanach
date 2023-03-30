@@ -3,11 +3,10 @@
 #### 🏬 AGH Student
 
 #### ⌨️ I know a few programming languages:
+ * Python
  * C++
  * C
- * basics of Java, Python and C#
-
-#### 🔭 I’m currently working on a game with my team called "2024"
+ * basics of Java, and C#
 
 #### My interests:
  * 🎬 Star Wars and MCU fan
