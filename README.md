@@ -85,11 +85,11 @@ Mobile game for exploring Karkonosze region (build with Code Industry AGH team).
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Jakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubbanach\&show_icons=true\&theme=tokyonight)
 
----
+--- -->
 
 ## 🚀 Currently working on
 
