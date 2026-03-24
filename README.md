@@ -107,7 +107,7 @@ Big fan of Star Wars, MCU, chess and competitive multiplayer games.
 
 ## 🌐 Links
 
-* 🌍 Portfolio: https://jakubbanach.github.io/
+<!-- * 🌍 Portfolio: https://jakubbanach.github.io/ -->
 * 📘 LinkedIn: https://www.linkedin.com/in/jakub-banach-kuba/
 
 ---
