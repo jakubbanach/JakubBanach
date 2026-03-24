@@ -66,7 +66,7 @@ Project for academic christian ministry - built with Astro and Strapi.
 
 ---
 
-### Traffic simulation
+### 🚗 Traffic simulation
 
 Developed for bachelor thesis: "Car traffic simulation for the fast road network in Poland"
 
@@ -101,6 +101,7 @@ Mobile game for exploring Karkonosze region (build with Code Industry AGH team).
 
 ## 🎬 Interests
 
+I love running, hiking and exploring nature. Also playing football and other team sports.
 Big fan of Star Wars, MCU, chess and competitive multiplayer games.
 
 ---
