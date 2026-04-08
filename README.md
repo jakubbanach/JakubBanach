@@ -75,13 +75,13 @@ Developed for bachelor thesis: "Car traffic simulation for the fast road network
 
 ---
 
-### 🎮 Zwiedzaj i Graj (Google Play test phase)
+### 🎮 "Zwiedzaj i Graj"
 
 Mobile game for exploring Karkonosze region (build with Code Industry AGH team).
 
 * Role: Unity developer
 * Tech: C#, Unity
-* 🌍 Live: soon on Google Play
+* 🌍 ["Zwiedzaj i Graj" on Google Play](https://play.google.com/store/apps/details?id=com.AGHCodeIndustry.zamek)
 
 ---
 
